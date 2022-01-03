@@ -1,4 +1,4 @@
-# Goldmansacchs
+ 
 class Solution {
     public List<List<String>> Anagrams(String[] string_list) {
         Map<String, List<String>> map = new HashMap<>();
